@@ -1,3 +1,9 @@
 #captura de corriendo el progrma
-![alt text](image.png)
-![alt text](image-1.png)
+![Captura](lib/capturas/image.png)
+![Captura 1](lib/capturas/image-1.png)
+![Captura 2](lib/capturas/image-2.png)
+![Captura 3](lib/capturas/image-3.png)
+![Captura 4](lib/capturas/image-4.png)
+![Captura 5](lib/capturas/image-5.png)
+![Captura 6](lib/capturas/image-6.png)
+![Captura 7](lib/capturas/image-7.png)
